@@ -1,0 +1,3 @@
+turbine.instanceUrlSuffix: :8080/hystrix.stream
+turbine.aggregator.clusters.coolstore: coolstore-cart.cart-service,coolstore-catalog.catalog-service,coolstore-inventory.inventory-service,coolstore-gateway.coolstore-gateway
+turbine.aggregator.clusterConfig: coolstore
